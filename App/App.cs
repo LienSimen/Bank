@@ -21,9 +21,11 @@ public class BankApp(CustomerController customerController, CardController cardC
             Console.WriteLine("What do you want to do?");
             Console.WriteLine("press 1 for registering a new customer");
             Console.WriteLine("press 2 for unregistering a new customer");
-            Console.WriteLine("press 3 to display cards");
-            Console.WriteLine("press 4 to check if card is available");
-            Console.WriteLine("press 5 to exit.");
+            Console.WriteLine("press 3 to display customers");
+            Console.WriteLine("press 4 to display cards");
+            Console.WriteLine("press 5 to check if card is available");
+            Console.WriteLine("press 6 to exit.");
+
             /* Her tar appen imot brukerinput, og sier til kontrolleren vår hva som skal kjøres. */
             var input = Console.ReadLine();
             switch (input)
@@ -35,12 +37,15 @@ public class BankApp(CustomerController customerController, CardController cardC
                     _customerController.RemoveCustomer();
                     break;
                 case "3":
-                    _cardController.GetAllCards();
+                    _customerController.DisplayCustomers();
                     break;
                 case "4":
-                    _cardController.IsCardAvailable();
+                    _cardController.GetAllCards();
                     break;
                 case "5":
+                    _cardController.IsCardAvailable();
+                    break;
+                case "6":
                     Console.WriteLine("Exiting...");
                     isRunning = false;
                     break;

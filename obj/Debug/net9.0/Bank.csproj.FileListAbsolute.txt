@@ -12,3 +12,4 @@ C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\refint\Bank.dll
 C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.pdb
 C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.genruntimeconfig.cache
 C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\ref\Bank.dll
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.sourcelink.json
