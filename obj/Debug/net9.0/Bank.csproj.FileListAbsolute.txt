@@ -1,0 +1,14 @@
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\bin\Debug\net9.0\Bank.exe
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\bin\Debug\net9.0\Bank.deps.json
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\bin\Debug\net9.0\Bank.runtimeconfig.json
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\bin\Debug\net9.0\Bank.dll
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\bin\Debug\net9.0\Bank.pdb
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.AssemblyInfo.cs
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.dll
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\refint\Bank.dll
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.pdb
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\Bank.genruntimeconfig.cache
+C:\Users\Simen\Documents\Kurs Oppgaver\Bank\obj\Debug\net9.0\ref\Bank.dll
